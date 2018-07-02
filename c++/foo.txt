@@ -1,0 +1,4 @@
+quark 10 11.4
+neutrino 7 20.5
+electron 5 6.7
+proton 8 9.5
